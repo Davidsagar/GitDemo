@@ -12,5 +12,13 @@ import io.cucumber.testng.AbstractTestNGCucumberTests;
 		glue = "stepDefination")
 
 public class TestRunner extends AbstractTestNGCucumberTests{
+	
+	
+	private void GitDem() {
+		// TODO Auto-generated method stub
+		System.out.println("Edited by UserB for GitDemo");
+
+	}
+	
 
 }
